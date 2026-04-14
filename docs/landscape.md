@@ -42,7 +42,7 @@
 
 - **Wildlife Insights** — camera-trap platform with AI  
   Upload, manage, analyze, map, store, and share camera trap data with machine learning assistance.  
-  <https://www.wildlifeinsights.org/home>
+  <https://www.wildlifeinsights.org/>
 
 - **Wildbook** — open-source wildlife data framework  
   Supports mark-recapture, social ecology, molecular ecology, and individual animal identification workflows.  
@@ -92,11 +92,11 @@
 
 - **Open Foris**  
   Large open-source ecosystem for forest and land monitoring.  
-  <https://openforis.org/>
+  <https://www.openforis.org/>
 
 - **Collect Earth**  
   Desktop-oriented visual interpretation workflow for land monitoring and change assessment.  
-  <https://openforis.org/solutions/collect-earth/>
+  <https://www.openforis.org/collect-earth/>
 
 - **Collect Earth Online**  
   Web-based geospatial interpretation platform for collaborative monitoring, QA/QC, and reference-data generation.  
@@ -104,7 +104,7 @@
 
 - **FERM**  
   Restoration-focused registry and geospatial tool for documenting and monitoring restoration activities across ecosystems.  
-  <https://openforis.org/solutions/ferm/>
+  <https://www.openforis.org/ferm/>
 
 - **Restor**  
   Restoration-oriented platform worth tracking for ecosystem restoration and biodiversity monitoring workflows.  
@@ -138,12 +138,12 @@
 
 These are not always “conservation tech platforms” in the operational sense, but they are core parts of the stack.
 
-- **GBIF APIs and datasets** — biodiversity occurrence and dataset access
-- **OBIS APIs and datasets** — marine biodiversity access
-- **Movebank data archive** — tracking and biologging data
-- **eBird data products** — bird distribution, abundance, and trend products
-- **iNaturalist API and open datasets** — species observations and image-linked biodiversity data
-- **QGIS ecosystem** — crucial for practical geospatial workflows in conservation projects
+- [**GBIF APIs and datasets**](https://techdocs.gbif.org/en/openapi/) — biodiversity occurrence and dataset access
+- [**OBIS APIs and datasets**](https://api.obis.org/) — marine biodiversity access
+- [**Movebank data archive**](https://www.movebank.org/) — tracking and biologging data
+- [**eBird data products**](https://ebird.org/about/download-ebird-data-products) — bird distribution, abundance, and trend products
+- [**iNaturalist API and open datasets**](https://api.inaturalist.org/v1/docs/) — species observations and image-linked biodiversity data
+- [**QGIS ecosystem**](https://qgis.org/) — crucial for practical geospatial workflows in conservation projects
 
 ---
 
@@ -153,17 +153,17 @@ If you are evaluating a platform, do not just ask whether it has features. Ask w
 
 Key things to know:
 
-- **Darwin Core / Darwin Core Archive** — biodiversity exchange
-- **EML** — ecological metadata
-- **Audiovisual Core** — biodiversity media metadata
-- **Camtrap DP** — camera trap data exchange
-- **Movebank data model** — animal movement / biologging structure
-- **OGC SensorThings API** — sensor and observation APIs
-- **STAC** — geospatial asset metadata and discovery
-- **OGC API - Features** — modern geospatial web APIs
-- **GeoPackage** — portable field-friendly geospatial packaging
-- **GeoParquet** — modern analytical geospatial format
-- **Cloud Optimized GeoTIFF** — cloud-native raster distribution
+- [**Darwin Core / Darwin Core Archive**](https://dwc.tdwg.org/) — biodiversity exchange
+- [**EML**](https://eml.ecoinformatics.org/) — ecological metadata
+- [**Audiovisual Core**](https://ac.tdwg.org/) — biodiversity media metadata
+- [**Camtrap DP**](https://camtrap-dp.tdwg.org/) — camera trap data exchange
+- [**Movebank data model**](https://www.movebank.org/cms/movebank-content/mb-data-model) — animal movement / biologging structure
+- [**OGC SensorThings API**](https://www.ogc.org/standards/sensorthings) — sensor and observation APIs
+- [**STAC**](https://stacspec.org/) — geospatial asset metadata and discovery
+- [**OGC API - Features**](https://ogcapi.ogc.org/features/) — modern geospatial web APIs
+- [**GeoPackage**](https://www.geopackage.org/) — portable field-friendly geospatial packaging
+- [**GeoParquet**](https://geoparquet.org/) — modern analytical geospatial format
+- [**Cloud Optimized GeoTIFF**](https://www.cogeo.org/) — cloud-native raster distribution
 
 See [`interoperability-and-standards.md`](interoperability-and-standards.md).
 

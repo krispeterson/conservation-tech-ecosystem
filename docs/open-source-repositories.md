@@ -154,6 +154,36 @@ Why it matters:
 - This is exactly the kind of organization-level GitHub presence that is easy to miss but highly valuable.
 - The projects are small-to-mid scale, but they are clearly connected to real conservation use cases.
 
+## How to work with hub-style organizations
+
+Some of the most useful open-source actors in this ecosystem are not single projects.
+
+They are hub-style organizations that produce multiple repos, field deployments, docs, community touchpoints, and reusable patterns over time.
+
+Examples in this file include:
+
+- Open Foris
+- Wild Me / Wildbook
+- Open Acoustic Devices
+- Digital Naturalism Laboratories
+- Conservation Technology Lab
+
+If you are evaluating one of these hubs, do not stop at the flagship repo.
+
+Look for:
+
+- a solutions portfolio or docs site that explains the full workflow
+- a forum, community, or visible support surface
+- multiple repos that map to a coherent operating model
+- stable interfaces such as APIs, export packages, schemas, firmware boundaries, or SDKs
+- evidence that the code is tied to real deployments rather than only demos
+
+Practical takeaway:
+
+- If you want to contribute, start where the hub has the clearest boundary: validators, SDKs, adapters, docs, deployment tooling, or analysis packages.
+- If you want to adopt, look for the most stable surface first and integrate there instead of forking the entire stack.
+- If you want to discover new opportunities, watch hub organizations because they reveal where fresh work is emerging faster than static platform lists do.
+
 ## Standards and interoperability repositories worth tracking
 
 These are not always flashy applications, but they matter because they help the ecosystem connect.
@@ -233,3 +263,4 @@ This section generally avoids:
 
 - [`docs/interoperability-and-standards.md`](interoperability-and-standards.md) — standards these repos often implement
 - [`docs/integration-patterns.md`](integration-patterns.md) — how these repos fit into workflows
+- [`docs/communities-funding-and-events.md`](communities-funding-and-events.md) — communities and innovation hubs around these repos

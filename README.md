@@ -37,7 +37,7 @@ It is designed for:
 
 - [**WILDLABS**](https://wildlabs.net/) — the strongest general entry point for conservation technology community, learning, discovery, and sector awareness
 - [**The Inventory (WILDLABS)**](https://wildlabs.net/en/inventory/) — a purpose-built discovery layer for conservation technology products, organizations, and R&D
-- [**SMART**](https://smartconservationtools.org/) and [**EarthRanger**](https://earthranger.com/) — two of the most important operational platforms in protected area management
+- [**SMART**](https://smartconservationtools.org/) and [**EarthRanger**](https://www.earthranger.com/) — two of the most important operational platforms in protected area management
 - [**Wildlife Insights**](https://www.wildlifeinsights.org/), [**Wildbook**](https://www.wildbook.org/), [**iNaturalist**](https://www.inaturalist.org/), [**eBird**](https://ebird.org/), and [**CitSci.org**](https://www.citsci.org/) — core platforms for biodiversity monitoring and citizen science
 - [**GBIF**](https://www.gbif.org/), [**OBIS**](https://obis.org/), and [**Movebank**](https://www.movebank.org/) — important data infrastructure layers for biodiversity, marine, and animal-movement data
 - [**Open Foris**](https://openforis.org/) — one of the most important open ecosystems for forest, land-use, and restoration monitoring
@@ -49,7 +49,7 @@ It is designed for:
 - [`docs/interoperability-and-standards.md`](docs/interoperability-and-standards.md) — schemas, metadata standards, APIs, exchange formats, and geospatial interoperability patterns
 - [`docs/integration-patterns.md`](docs/integration-patterns.md) — recurring end-to-end workflows showing how data moves across devices, platforms, archives, and operations
 - [`docs/open-source-repositories.md`](docs/open-source-repositories.md) — deeper look at open-source repositories, GitHub organizations, and emerging projects
-- [`docs/communities-funding-and-events.md`](docs/communities-funding-and-events.md) — forums, communities, collaborations, awards, prizes, conferences, and challenge programs
+- [`docs/communities-funding-and-events.md`](docs/communities-funding-and-events.md) — forums, communities, collaborations, open-source innovation hubs, awards, prizes, conferences, and challenge programs
 - [`docs/gaps-and-opportunities.md`](docs/gaps-and-opportunities.md) — structural gaps in the ecosystem and opportunities for new work
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to improve this list
 
