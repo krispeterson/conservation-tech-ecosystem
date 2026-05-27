@@ -39,7 +39,7 @@ It is designed for:
 - [**The Inventory (WILDLABS)**](https://wildlabs.net/en/inventory/) — a purpose-built discovery layer for conservation technology products, organizations, and R&D
 - [**SMART**](https://smartconservationtools.org/) and [**EarthRanger**](https://www.earthranger.com/) — two of the most important operational platforms in protected area management
 - [**Wildlife Insights**](https://www.wildlifeinsights.org/), [**Wildbook**](https://www.wildbook.org/), [**iNaturalist**](https://www.inaturalist.org/), [**eBird**](https://ebird.org/), and [**CitSci.org**](https://www.citsci.org/) — core platforms for biodiversity monitoring and citizen science
-- [**GBIF**](https://www.gbif.org/), [**OBIS**](https://obis.org/), and [**Movebank**](https://www.movebank.org/) — important data infrastructure layers for biodiversity, marine, and animal-movement data
+- [**GBIF**](https://www.gbif.org/), [**OBIS**](https://obis.org/), [**Movebank**](https://www.movebank.org/), and [**GloBI**](https://www.globalbioticinteractions.org/about) — important data infrastructure layers for biodiversity, marine, animal-movement, and species-interaction data
 - [**Open Foris**](https://openforis.org/) — one of the most important open ecosystems for forest, land-use, and restoration monitoring
 
 ## Repository guide

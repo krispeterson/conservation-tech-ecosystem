@@ -142,6 +142,28 @@ This is a foundational but often under-listed category.
 
 This domain is especially important because it forces attention to sensor metadata, event modeling, time series, and long-term archiving.
 
+## Ecological interactions, food webs, and biodiversity knowledge graphs
+
+This slice covers systems that represent relationships among organisms, such as predation, pollination, parasitism, host relationships, herbivory, mutualism, and broader literature-derived biodiversity claims.
+
+### Important databases and graph layers
+
+- **Global Biotic Interactions (GloBI)** — broad open index of species interaction records with source provenance
+- **Mangal** — ecological interaction database and API oriented toward ecological network analysis
+- **Web of Life** — downloadable ecological network matrices across food webs, pollination, seed dispersal, host-parasite, plant-herbivore, and related networks
+- **OpenBiodiv** — literature-derived biodiversity knowledge graph using semantic publishing and linked open data
+- **EltonTraits** — trait layer for bird and mammal foraging ecology that can support ecological-role inference, though it is not a pairwise interaction graph
+
+### Why this slice matters
+
+Ecological relationship data can help conservation systems move beyond “where is this species?” toward “what depends on this species, habitat, or intervention?” For decision-support systems, these databases are best treated as evidence-backed relationship layers rather than complete ecosystem truth.
+
+### Common caveats
+
+- interactions are context-dependent by geography, season, habitat, life stage, disturbance, and scarcity
+- coverage is uneven across taxa and regions
+- source provenance, confidence, and citation metadata matter as much as the interaction label
+
 ## Edge AI and embedded conservation systems
 
 This is a technical slice rather than a biological one.

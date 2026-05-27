@@ -281,6 +281,37 @@ Do not assume that vessel monitoring data and biodiversity records will be manag
 
 Use cloud-native formats where possible, but always provide an escape hatch for offline users. In conservation, disconnected workflows are not an edge case.
 
+## Pattern 10: Ecological interaction graph for decision support
+
+**Typical flow**
+
+1. Species, taxon concepts, habitats, stressors, management actions, and ecosystem services are modeled as graph nodes
+2. Interaction records are imported from sources such as GloBI, Mangal, Web of Life, literature-derived knowledge graphs, or local expert datasets
+3. Each relationship is attached to evidence, provenance, citation, geography, habitat, season, life stage, confidence, and source-quality metadata
+4. Regional science teams validate, filter, or weight relationships for a specific planning context
+5. Decision-support tools query the graph to ask which relationships matter for a land-management, restoration, or risk scenario
+
+**Common building blocks**
+
+- GloBI
+- Mangal
+- Web of Life
+- OpenBiodiv
+- EltonTraits or similar trait datasets
+- GBIF, ITIS, Catalogue of Life, or other taxonomic identifier backbones
+- graph databases, RDF/linked data, or property-graph models
+
+**Where it breaks**
+
+- pairwise interaction records are often treated as universal when they are context-dependent
+- taxonomic identifiers and names do not always reconcile cleanly across sources
+- interaction labels can hide important qualifiers such as life stage, season, geography, habitat, or evidence type
+- global indexes may not represent local ecological knowledge or under-sampled taxa well
+
+**Design advice**
+
+Treat species interactions as evidence-backed relationship layers, not ground truth. For a TerrAdapt-style system, the valuable product is likely a regional ecological decision graph that combines species, habitats, stressors, management actions, ecosystem services, and traceable evidence.
+
 ## A lightweight reference architecture
 
 A pragmatic pattern that fits a large share of conservation systems:

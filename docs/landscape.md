@@ -88,6 +88,28 @@
   Major platform for managing, sharing, analyzing, and archiving animal tracking and animal-borne sensor data.  
   <https://www.movebank.org/>
 
+### Ecological interaction databases and knowledge graphs
+
+- **Global Biotic Interactions (GloBI)** — open species-interaction index  
+  Open access index for finding species interaction data such as predator-prey, pollinator-plant, pathogen-host, parasite-host, mutualism, and related biotic interactions. Useful as a backbone for ecological relationship graphs, while retaining source-dataset provenance.  
+  <https://www.globalbioticinteractions.org/about>
+
+- **Mangal** — ecological interactions database  
+  Database and API for ecological networks, including taxa, interaction records, interaction types, and source metadata. Especially useful for network-analysis workflows.  
+  <https://mangal.io/>
+
+- **Web of Life** — ecological networks database  
+  Database for downloading ecological network matrices and related metadata across food webs, pollination, seed dispersal, plant-herbivore, host-parasite, host-parasitoid, plant-ant, and related interaction networks.  
+  <https://www.web-of-life.es/>
+
+- **OpenBiodiv** — biodiversity knowledge graph  
+  Literature-derived biodiversity knowledge graph using linked open data, semantic publishing, ontologies, text/data mining, and graph database technologies. Broader than species interactions alone, but relevant for extracting structured biodiversity knowledge from publications.  
+  <https://www.mdpi.com/2304-6775/7/2/38>
+
+- **EltonTraits** — species-level foraging trait dataset  
+  Not a pairwise interaction database, but an important trait layer for birds and mammals covering diet, foraging strata, foraging time, body size, and related attributes that help infer ecological roles and potential interactions.  
+  <https://doi.org/10.1890/13-1917.1>
+
 ### Forests, restoration, and land monitoring
 
 - **Open Foris**  
@@ -141,6 +163,9 @@ These are not always “conservation tech platforms” in the operational sense,
 - [**GBIF APIs and datasets**](https://techdocs.gbif.org/en/openapi/) — biodiversity occurrence and dataset access
 - [**OBIS APIs and datasets**](https://api.obis.org/) — marine biodiversity access
 - [**Movebank data archive**](https://www.movebank.org/) — tracking and biologging data
+- [**GloBI datasets and APIs**](https://www.globalbioticinteractions.org/data) — species interaction data index and access points
+- [**Mangal API**](https://mangal-interactions.github.io/mangal-api/) — ecological interaction networks and interaction records
+- [**Web of Life data downloads**](https://www.web-of-life.es/map.php) — ecological network matrices and metadata
 - [**eBird data products**](https://ebird.org/about/download-ebird-data-products) — bird distribution, abundance, and trend products
 - [**iNaturalist API and open datasets**](https://api.inaturalist.org/v1/docs/) — species observations and image-linked biodiversity data
 - [**QGIS ecosystem**](https://qgis.org/) — crucial for practical geospatial workflows in conservation projects
